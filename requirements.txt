@@ -1,0 +1,4 @@
+piquasso @ git+https://github.com/Budapest-Quantum-Computing-Group/piquasso#f86dd89
+matplotlib==3.7.5
+numba==0.59.1
+pyqt5==5.15.10
